@@ -1,2 +1,2 @@
-# material_curso_ingl-s
-Tudo que estou estudando sendo guardado e armazenado após leitura e absorção do que foi aprendido em inglês.
+# English Course Material
+Tudo que estou estudando está sendo guardado e armazenado após leitura e absorção do que foi aprendido em inglês.
